@@ -1,0 +1,10 @@
+@media (min-width:768px) {
+  .navbar-expand-md .navbar-collapse {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    /*align: center;*/
+  }
+}
+
